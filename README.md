@@ -12,6 +12,7 @@ search
 + binary search
 + hash search
 + DFS search
++ soundex
 
 graph
 ----------
